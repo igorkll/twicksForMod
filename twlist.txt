@@ -1,1 +1,1 @@
- https://raw.githubusercontent.com/igorkll/twicksForMod/main/testTwick.lua;testTwick
+https://raw.githubusercontent.com/igorkll/twicksForMod/main/testTwick.lua;testTwick
