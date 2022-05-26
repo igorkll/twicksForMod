@@ -1,2 +1,1 @@
-https://raw.githubusercontent.com/igorkll/twicksForMod/main/testTwick.lua;testTwick
-https://raw.githubusercontent.com/igorkll/twicksForMod/main/testTwick2.lua;testTwick2
+https://raw.githubusercontent.com/igorkll/twicksForMod/main/saveTmp.lua;saveTmp
